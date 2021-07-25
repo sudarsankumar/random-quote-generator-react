@@ -1,4 +1,4 @@
-# Windbnb-React
+# Random Quote Generator
 
 This is basic random quote generator project Template Done by using _react_ and _CSS_ developed by **N. Sudarsan Kumar**
 ![](https://devchallenges.io/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fdevchallenges-1234.appspot.com%2Fo%2FchallengesDesigns%252FquoteThumbnail.png%3Falt%3Dmedia%26token%3D156a0ff0-506a-4246-8422-eb1cedab5116&w=750&q=75)
