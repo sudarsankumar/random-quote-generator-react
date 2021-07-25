@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+.btn
+{
+    outline: none;
+    border: none;
+    background-color: inherit;
+    float: right;
+    margin: 1rem 2rem;
+    font-size: 18px;
+    font-weight: 500;
+    color: #4F4F4F;
+}
+.btn:hover
+{
+    cursor: pointer;
+}
+.quote-center
+{
+    padding-top: 15rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+.quote
+{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin: auto;
+    flex-direction: column;
+    width: 50vw;
+}
+.quote .Quotes
+{
+    border-left: 8px solid #F7DF94;
+    padding-left: 50px;
+    font-weight: 500;
+    color: #000000;
+    font-size: 36px;
+}
+.quote .authors
+{
+    margin-top: 2rem;
+    margin-left: 60px;
+}
+.quote .authors:hover
+{
+    background-color: #333333;
+    color: #F2F2F2;
+}
+.quote .author
+{
+    font-weight: 700;
+    width: 100%;
+    color: #4F4F4F;
+    font-size: 24px;
+    padding: 2rem;
+}
+.quote .author:hover
+{
+    cursor: pointer;
+}
+.quote .genre
+{
+    padding-left: 60px;
+    font-weight: 700;
+    color: #828282;
+    font-size: 14px;
+    text-transform: capitalize;
+    padding: 2rem;
+    padding-top: 0;
+}
+@media (max-width:800px)
+{
+    .quote
+    {
+        width: 90%;
+    }
+}
